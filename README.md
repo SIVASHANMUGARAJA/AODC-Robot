@@ -19,8 +19,8 @@ Alternately this project is not designed for obstacle avoidance and also it is d
 > DC 9V POWER MOTOR.                                                                                                                                         
 ## SOFTWARE REQUIRED
 
-OPERATING SYSTEM	:-  WINDOWS 7, 8, 8.1, 10, 11.
-LANGUAGE			:-  C++.
-SOFTWARE 			:-  ARDUINO IDE.
+OPERATING SYSTEM	:-  WINDOWS 7, 8, 8.1, 10, 11.                                                                                          
+LANGUAGE			:-  C++.                                                                                                                    
+SOFTWARE 			:-  ARDUINO IDE.                                                                                                            
 
 
