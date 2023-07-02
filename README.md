@@ -11,9 +11,12 @@ Alternately this project is not designed for obstacle avoidance and also it is d
 
 > ARDUINO UNO R3 ATmega 328.                                                                                                              
 > MOTOR DRIVER SHIELD  (L293D).                                                                                                           
-> TOWER PRO MOTOR  (SG90).                                                                                                                > ULTRASONIC SENSOR  (HC – SR04).                                                                                                         > DC GEARED MOTORS.                                                                                                                       > LITHIUM – ION BATTERYS.                                                                                                                > MOTOR POWER REGULATOR.                                                                                                                  
-> DC 9V POWER MOTOR.
-
+> TOWER PRO MOTOR (SG90).
+> ULTRASONIC SENSOR (HC – SR04).
+> DC GEARED MOTORS.
+> LITHIUM – ION BATTERYS.
+> MOTOR POWER REGULATOR.
+> DC 9V POWER MOTOR.                                                                                                                                         
 ## SOFTWARE REQUIRED
 
 OPERATING SYSTEM	:-  WINDOWS 7, 8, 8.1, 10, 11.
