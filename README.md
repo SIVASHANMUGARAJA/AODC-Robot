@@ -23,4 +23,8 @@ OPERATING SYSTEM	:-  WINDOWS 7, 8, 8.1, 10, 11.
 LANGUAGE			:-  C++.                                                                                                                    
 SOFTWARE 			:-  ARDUINO IDE.                                                                                                            
 
+## How Obstacles are Avoiding??
 
+First of all, our robot car must be sensing the way if the way is clear then it move on the same path.                                    
+Otherwise it move back a step and once again it will look around for the free way and then it will move on.                               
+<img src="https://www.mdpi.com/sensors/sensors-22-08914/article_deploy/html/images/sensors-22-08914-g001.png">
