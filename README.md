@@ -26,5 +26,11 @@ SOFTWARE 			:-  ARDUINO IDE.
 ## How Obstacles are Avoiding??
 
 First of all, our robot car must be sensing the way if the way is clear then it move on the same path.                                    
-Otherwise it move back a step and once again it will look around for the free way and then it will move on.                               
+Otherwise it move back a step and once again it will look around for the free way and then it will move on.
+
 <img src="https://win.adrirobot.it/sonar/PING/immagini/ultrasonic_sensor_schema.jpg">
+
+## Working Principle
+
+The obstacle avoidance robotic vehicle uses ultrasonic sensors for its movements. Arduino is used to achieve the desired operation. The motors are connected through motor driver IC to Arduino. The ultrasonic sensor is attached in front of the robot. Whenever the robot is going on the desired path the ultrasonic sensor transmits the ultrasonic waves continuously from its sensor head. Whenever an obstacle comes ahead of it the ultrasonic waves are reflected back from an object and that information is passed to the arduino. The Arduino controls the motors left, right, back, front, based on ultrasonic signals. In order to control the speed of each motor pulse width modulation is used (PWM). When ultrasonic sensor detect the object which is kept inside the path it will send the signal toward the arduino uno and according to that it will it will rotate the motor M3 & M4 in forward direction and rotate the motor M1 & M2 in reverse direction such way that the car get moving in left direction .Similarly in every time whenever an obstacle in found to be in path of car it will detect it and rotate the car in left direction to avoid the obstacle and the it has been collecting all the dust particles surrounded in the floor with help of dust collector mounted on the robotic vehicle.
+<img src="Pictures/Capture1.png">
