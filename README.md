@@ -10,6 +10,7 @@ Alternately this project is not designed for obstacle avoidance and also it is d
 ## HARDWARE REQUIRED
 
 ARDUINO UNO R3 ATmega 328.
+MOTOR DRIVER SHIELD  (L293D).
 
 ## SOFTWARE REQUIRED
 
