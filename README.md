@@ -7,4 +7,21 @@ The project is design to build an obstacle avoidance robotic vehicle using ultra
 
 Alternately this project is not designed for obstacle avoidance and also it is designed to collect all the dust particles. Manual work is taken over the robot technology and many of the related robot appliances are being used extensively also. Here represents the technology that proposed the working of robot for Floor cleaning. Households of today are becoming smarter and more automated. Domestic robots are entering the homes and people’s daily lives, but it is yet a relatively new and immature market. However, a growth is predicted and the adoption of domestic robots is evolving. The purpose of this project is to design and implement a Vacuum Robot for Autonomous dry cleaning application. Vacuum Cleaner Robot is designed to make cleaning process become easier rather than by using manual vacuum. The main objective of this project is to design and implement a obstacle avoiding and vacuum robot prototype by using Arduino Uno, motor driver shield, Motor, Ultrasonic Sensor, Motor power controller and to achieve the goal of this project. The whole circuitry is connected with 14.8V battery. On the perspection this Vacuum Robot has some criteria that are environment friendly and user-friendly.
 
+## HARDWARE REQUIRED
+
+	ARDUINO UNO R3 ATmega 328
+	MOTOR DRIVER SHIELD  (L293D)
+	TOWER PRO MOTOR  (SG90)
+	ULTRASONIC SENSOR  (HC – SR04)
+	DC GEARED MOTORS 
+	LITHIUM – ION BATTERYS
+	MOTOR POWER REGULATOR
+	DC 9V POWER MOTOR
+
+## SOFTWARE REQUIRED
+
+	OPERATING SYSTEM	:-  WINDOWS 7, 8, 8.1, 10, 11
+	LANGUAGE			:-  C++
+	SOFTWARE 			:-  ARDUINO IDE
+
 
